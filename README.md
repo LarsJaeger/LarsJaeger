@@ -5,6 +5,8 @@
 
 - 👨‍🎓 Dual student in computer science at the [Baden-Wuerttemberg Cooperative State University (DHBW) Heidenheim](https://www.heidenheim.dhbw.de/en/home) and [Mercedes-Benz Tech Innovation GmbH](https://www.mercedes-benz-techinnovation.com/de/) where I focus on data science / machine learning
 
+- 💛 Versatile interests, mainly from machine learning and back-end development to operations and security, occasionally even building web front-ends.
+
 - 🔭 I’m currently working on [openPrecision, an open source agricultural steering system and data platform.](https://github.com/LarsJaeger/openPrecision)
 
 - 🌱 At the moment I’m learning **graph structure related tech, i.e. graph databases and all kinds of graph neural networks.**
