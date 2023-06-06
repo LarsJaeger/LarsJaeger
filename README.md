@@ -11,7 +11,7 @@
 
 - 🌱 At the moment I’m learning **graph structure related tech**, i.e. graph databases and all kinds of **graph neural networks**.
 
-- 📫 How to reach me **lars@jgr.one**
+- 📫 How to reach me: **lars@jgr.one**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
