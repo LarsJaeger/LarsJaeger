@@ -5,7 +5,7 @@
 
 - 👨‍🎓 Dual student of **computer science** at the [Baden-Wuerttemberg Cooperative State University (DHBW) Heidenheim](https://www.heidenheim.dhbw.de/en/home) and [Mercedes-Benz Tech Innovation GmbH](https://www.mercedes-benz-techinnovation.com/de/) where I focus on **data science / machine learning**
 
-- 💛 Versatile interests, from **machine learning** and **back-end development** and **operations** to occasionally building **web app front-ends**.
+- 💛 Versatile interests, from **machine learning**, **back-end development** and **operations** to occasionally building **web app front-ends**.
 
 - 🔭 I’m currently working on [**openPrecision**, an open source agricultural steering system and data platform.](https://github.com/LarsJaeger/openPrecision)
 
