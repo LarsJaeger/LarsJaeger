@@ -7,7 +7,7 @@
 
 - 💛 Versatile interests, from **machine learning**, **back-end development** and **operations** to occasionally building **web app front-ends**.
 
-- 🔭 I’m currently working on [**openPrecision**, an open source agricultural steering system and data platform.](https://github.com/LarsJaeger/openPrecision)
+- 🔭 I’m currently working on [**openPrecision**, an open source agricultural guidance system and data platform.](https://github.com/LarsJaeger/openPrecision)
 
 - 🌱 At the moment I’m learning **graph structure related tech**, i.e. graph databases and all kinds of **graph neural networks**.
 
