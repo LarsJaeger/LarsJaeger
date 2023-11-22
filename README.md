@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=larsjaeger&label=Profile%20views&color=0e75b6&style=flat" alt="larsjaeger" /> </p>
 
-- 👨‍🎓 Dual student of **computer science** at the [Baden-Wuerttemberg Cooperative State University (DHBW) Heidenheim](https://www.heidenheim.dhbw.de/en/home) and [Mercedes-Benz Tech Innovation GmbH](https://www.mercedes-benz-techinnovation.com/de/) where I focus on **data science / machine learning**
+- 👨‍🎓 Dual student in **computer science** at the [Baden-Wuerttemberg Cooperative State University (DHBW) Heidenheim](https://www.heidenheim.dhbw.de/en/home) and [Mercedes-Benz Tech Innovation GmbH](https://www.mercedes-benz-techinnovation.com/de/) where I focus on **data science / machine learning**
 
 - 💛 Versatile interests, from **machine learning**, **back-end development** and **operations** to occasionally building **web app front-ends**.
 
