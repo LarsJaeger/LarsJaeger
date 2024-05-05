@@ -11,7 +11,7 @@
 
 - 🌱 At the moment I’m learning **graph technologies** (graph databases, graph neural networks) and **rust**.
 
-- 📫 How to reach me: **lars@jgr.one**.
+- 📫 How to reach me: **mail@lj.gr**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
