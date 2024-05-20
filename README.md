@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [**openPrecision**, my vision of an open source agricultural guidance system and data platform.](https://github.com/LarsJaeger/openPrecision)
 
-- 🌱 At the moment I’m learning **graph technologies** (graph databases, graph neural networks) and **rust**.
+- 🌱 At the moment I’m learning **PEFT methods for Large Language Models**.
 
 - 📫 How to reach me: **mail@lj.gr**.
 
