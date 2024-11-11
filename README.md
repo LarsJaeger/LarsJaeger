@@ -3,14 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=larsjaeger&label=Profile%20views&color=0e75b6&style=flat" alt="larsjaeger" /> </p>
 
-- 👨‍🎓 Dual student in **computer science** at the [Baden-Wuerttemberg Cooperative State University (DHBW) Heidenheim](https://www.heidenheim.dhbw.de/en/home) and [Mercedes-Benz Tech Innovation GmbH](https://www.mercedes-benz-techinnovation.com/de/) where I'm focused on **data science / machine learning**
+- 👨‍🎓 **Bachelor of Science** (2024) at the [Baden-Wuerttemberg Cooperative State University (DHBW) Heidenheim](https://www.heidenheim.dhbw.de/en/home)
 
-- 💛 Versatile interests, from **machine learning**, **back-end development** and **operations** to occasionally building **web front-ends**.
+- 💼 **Data Scientist** at [Mercedes-Benz Tech Innovation GmbH](https://www.mercedes-benz-techinnovation.com/de/) where I'm focused on **machine learning**
+
+- 💛 Jack of all trades: **machine learning**, **back-end development** and **operations** to building **web front-ends**.
 
 - 🔭 I’m currently working on [**openPrecision**, my vision of an open source agricultural guidance system and data platform.](https://github.com/LarsJaeger/openPrecision)
 
-- 🌱 At the moment I’m learning **PEFT methods for Large Language Models**.
-
+<!-- - 🌱 At the moment I’m learning **PEFT methods for Large Language Models**. 
+-->
 - 📫 How to reach me: **mail@lj.gr**.
 
 <h3 align="left">Connect with me:</h3>
