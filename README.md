@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=larsjaeger&label=Profile%20views&color=0e75b6&style=flat" alt="larsjaeger" /> </p>
 
-- 👨‍🎓 **Bachelor of Science** (2024) at the [Baden-Wuerttemberg Cooperative State University (DHBW) Heidenheim](https://www.heidenheim.dhbw.de/en/home)
+- 💼 **Data Scientist** at [Mercedes-Benz Tech Innovation GmbH](https://www.mercedes-benz-techinnovation.com/de/) where I focus on **machine learning**
 
-- 💼 **Data Scientist** at [Mercedes-Benz Tech Innovation GmbH](https://www.mercedes-benz-techinnovation.com/de/) where I'm focused on **machine learning**
-
-- 💛 Jack of all trades: **machine learning**, **back-end development** and **operations** to building **web front-ends**.
+- 💛 Jack of all trades: **machine learning**, **full-stack development**, **(Dev-)Ops**, ... basically an end-to-end engineer
 
 - 🔭 I’m currently working on [**openPrecision**, my vision of an open source agricultural guidance system and data platform.](https://github.com/LarsJaeger/openPrecision)
 
