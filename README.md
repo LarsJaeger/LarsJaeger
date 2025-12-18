@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋 I'm Lars,</h1>
-<h3 align="center">a full-time tech and data enthusiast.</h3>
+<h3 align="center">full-time tech and data enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=larsjaeger&label=Profile%20views&color=0e75b6&style=flat" alt="larsjaeger" /> </p>
 
-- 💼 **Data Scientist** at [Mercedes-Benz Tech Innovation GmbH](https://www.mercedes-benz-techinnovation.com/de/) where I focus on **machine learning**
+- 💼 **Data Scientist** at [Mercedes-Benz Tech Innovation GmbH](https://www.mercedes-benz-techinnovation.com/de/) focussing on **machine learning**
 
-- 💛 Jack of all trades: **machine learning**, **full-stack development**, **(Dev-)Ops**, ... basically an end-to-end engineer
+- 🔥 Jack of all trades: **machine learning**, **full-stack development**, **(Dev-)Ops**, ... basically an end-to-end engineer
 
-- 🔭 I’m currently working on [**openPrecision**, my vision of an open source agricultural guidance system and data platform.](https://github.com/LarsJaeger/openPrecision)
+- 🔭 I’m currently working on implementing my vision of an open source precision farming and data platform.
 
 <!-- - 🌱 At the moment I’m learning **PEFT methods for Large Language Models**. 
 -->
